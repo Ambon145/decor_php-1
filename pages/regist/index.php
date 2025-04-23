@@ -41,7 +41,7 @@
                 <p class="self-center">or <a href="signIn.html" class="text-[#B5733A]">Sign In</a></p>
             </div>
         </form>
-        <img src="Group_15[1].svg" alt="" width="430px">
+        <img src="../../img/Group_15[1].svg" alt="" width="430px">
     </div>
 
     <script src="script.js"></script>
